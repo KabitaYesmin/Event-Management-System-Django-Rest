@@ -1,0 +1,104 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="17">
+            <item index="0" class="java.lang.String" itemvalue="container-fluid" />
+            <item index="1" class="java.lang.String" itemvalue="navbar-brand" />
+            <item index="2" class="java.lang.String" itemvalue="button" />
+            <item index="3" class="java.lang.String" itemvalue="%}" />
+            <item index="4" class="java.lang.String" itemvalue="endblock" />
+            <item index="5" class="java.lang.String" itemvalue="{{post.title}}" />
+            <item index="6" class="java.lang.String" itemvalue="alt" />
+            <item index="7" class="java.lang.String" itemvalue="cover1.png" />
+            <item index="8" class="java.lang.String" itemvalue="position" />
+            <item index="9" class="java.lang.String" itemvalue="utf-8" />
+            <item index="10" class="java.lang.String" itemvalue="col-lg-0" />
+            <item index="11" class="java.lang.String" itemvalue="}" />
+            <item index="12" class="java.lang.String" itemvalue="google" />
+            <item index="13" class="java.lang.String" itemvalue="google.com" />
+            <item index="14" class="java.lang.String" itemvalue="background_netflix.jpg" />
+            <item index="15" class="java.lang.String" itemvalue="static" />
+            <item index="16" class="java.lang.String" itemvalue="background.jpg" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="22">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="body" />
+            <item index="7" class="java.lang.String" itemvalue="h1" />
+            <item index="8" class="java.lang.String" itemvalue="li" />
+            <item index="9" class="java.lang.String" itemvalue="li1" />
+            <item index="10" class="java.lang.String" itemvalue="li2" />
+            <item index="11" class="java.lang.String" itemvalue="extended.base" />
+            <item index="12" class="java.lang.String" itemvalue="hr" />
+            <item index="13" class="java.lang.String" itemvalue="app-root" />
+            <item index="14" class="java.lang.String" itemvalue="br" />
+            <item index="15" class="java.lang.String" itemvalue="style" />
+            <item index="16" class="java.lang.String" itemvalue="html" />
+            <item index="17" class="java.lang.String" itemvalue="div" />
+            <item index="18" class="java.lang.String" itemvalue="span" />
+            <item index="19" class="java.lang.String" itemvalue="h5" />
+            <item index="20" class="java.lang.String" itemvalue="a" />
+            <item index="21" class="java.lang.String" itemvalue="ion-icon" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E305" />
+          <option value="E722" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N801" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.insert" />
+          <option value="str.__truediv__" />
+          <option value="RandomWebSite.RandomApp.views.Article" />
+          <option value="django.db.models.fields.CharField.__add__" />
+          <option value="CRAZY_BLOG.Blog_App.models.Post.id" />
+          <option value="FlipperApp.models" />
+          <option value="CrazySite.CRAZY_BLOG.Blog_App.views.display_images.objects" />
+          <option value="core.models.Movie.objects" />
+          <option value="core.models.Movie.*" />
+          <option value="core.models.Profile.*" />
+          <option value="config.settings.DEBUG" />
+          <option value="config.settings.STATIC_URL" />
+          <option value="django.contrib.Product" />
+          <option value="MyWebSite.base.migrations.views.home" />
+          <option value="environ.Env" />
+          <option value="ERS.views" />
+          <option value="mydjangosite.myapp.views.myapp" />
+          <option value="django.contrib.Events" />
+          <option value="mydjangosite.myapp.views.forms" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
